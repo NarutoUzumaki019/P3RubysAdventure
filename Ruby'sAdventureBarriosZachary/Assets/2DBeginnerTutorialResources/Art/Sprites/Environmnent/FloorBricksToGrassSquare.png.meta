@@ -81,6 +81,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -137,8 +150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9198a7df87022940a7662c5e49a1388
-      internalID: 1339914293
+      spriteID: 523f92d415aa3584191df4a508d2fd45
+      internalID: -350795667
       vertices: []
       indices: 
       edges: []
@@ -158,8 +171,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ff2dd9cd4384fc4f9c6708dec2eeded
-      internalID: 281718712
+      spriteID: 637f96bca72008a4eb207c4bdc9b6104
+      internalID: 2025999887
       vertices: []
       indices: 
       edges: []
@@ -179,8 +192,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 915724d1b4a306f4ab0b6b958da7b036
-      internalID: -423718716
+      spriteID: 2798a6eb6f9250e41bbf854411fec4c1
+      internalID: -306917368
       vertices: []
       indices: 
       edges: []
@@ -200,8 +213,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a772a4fc447e664bbcf8a7b35fb75e6
-      internalID: 1402624976
+      spriteID: 2c087c6fb801e8c49b94f3385ea491ff
+      internalID: 1651457329
       vertices: []
       indices: 
       edges: []
@@ -221,8 +234,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64bb34b3fb6a6f7469172cc9412cf483
-      internalID: 831350011
+      spriteID: 0afba287457997f49bd7c5d1fe03c3d7
+      internalID: 747428566
       vertices: []
       indices: 
       edges: []
@@ -242,8 +255,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8455f3c62c3495428a2ca6ba12c6d75
-      internalID: 531892804
+      spriteID: 34990f16581753d4e8366a51f7f68b75
+      internalID: 449619355
       vertices: []
       indices: 
       edges: []
@@ -263,8 +276,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 436f8ce526414c24aae54401e524d253
-      internalID: -336355574
+      spriteID: c258720f0345a9b4c96025dfdaeca0ec
+      internalID: -1059169363
       vertices: []
       indices: 
       edges: []
@@ -284,8 +297,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f78e5b02748068f4ea2ea88fb62e2f05
-      internalID: 1808828777
+      spriteID: d6e2453015af18649960f6b0aaa6ad05
+      internalID: -1740196537
       vertices: []
       indices: 
       edges: []
@@ -305,8 +318,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d165540dec7892d47816153a07afb887
-      internalID: 697611564
+      spriteID: 29121d170fb30f04385ef87e1e34c58b
+      internalID: -458601604
       vertices: []
       indices: 
       edges: []
@@ -314,7 +327,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 26a918d8cd29d824080532489ceb0ef8
+    spriteID: 1b30a8e5ce9f0d74ab67a6418991a351
     internalID: 0
     vertices: []
     indices: 
@@ -322,15 +335,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FloorBricksToGrassSquare_0: 1339914293
-      FloorBricksToGrassSquare_1: 281718712
-      FloorBricksToGrassSquare_2: -423718716
-      FloorBricksToGrassSquare_3: 1402624976
-      FloorBricksToGrassSquare_4: 831350011
-      FloorBricksToGrassSquare_5: 531892804
-      FloorBricksToGrassSquare_6: -336355574
-      FloorBricksToGrassSquare_7: 1808828777
-      FloorBricksToGrassSquare_8: 697611564
+      FloorBricksToGrassSquare_0: -350795667
+      FloorBricksToGrassSquare_1: 2025999887
+      FloorBricksToGrassSquare_2: -306917368
+      FloorBricksToGrassSquare_3: 1651457329
+      FloorBricksToGrassSquare_4: 747428566
+      FloorBricksToGrassSquare_5: 449619355
+      FloorBricksToGrassSquare_6: -1059169363
+      FloorBricksToGrassSquare_7: -1740196537
+      FloorBricksToGrassSquare_8: -458601604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
